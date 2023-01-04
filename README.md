@@ -1,6 +1,6 @@
 <h1>Cookie Clicker</h1>
 This is a fun game where you click to earn cookies. Purchase upgrades to earn more cookies per second. Enjoy!!!<br>
-This code uses Selenium to drive a bot that plays the Cookie Clicker game for you with a top record of 80 cookies/second in 5 mins.(That's fast!)<br>
+This code uses Selenium to drive a bot that plays the Cookie Clicker game for you with a top record of 75 cookies/second in 5 mins.(That's fast!)<br>
 
 <h2>Requirements</h2>
 <ul>
