@@ -26,4 +26,4 @@ This code uses Selenium to drive a bot that plays the Cookie Clicker game for yo
 <img src="https://raw.githubusercontent.com/obiora789/obiora789/obiora789-patch-1/Cookie_clicker_2.jpg" alt="cookieClicker.jpg">
 <hr>
 <h3>Bugs</h3>
-<p>Selenium reports stale element when CPU workload is high. Simply rerun the code after you have reduced CPU workload.</p>
+<p>Selenium reports stale element error when CPU workload is high. Simply rerun the code after you have reduced CPU workload.</p>
