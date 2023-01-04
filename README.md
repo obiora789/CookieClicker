@@ -15,6 +15,7 @@ This code uses Selenium to drive a bot that plays the Cookie Clicker game for yo
   <li>Download the webdriver for your browser(I use Chrome).</li>
   <li>Install and import Selenium Web driver.</li>
   <li>Copy the path of the Chrome Webdriver and save it as an environment variable.</li>
+  <li>Populate the environment variable with the actual path of your Webdriver.</li>
   <ul>
     <li>CHROME_PATH=pathToChromeDriverOnYourPC</li>
   </ul>
